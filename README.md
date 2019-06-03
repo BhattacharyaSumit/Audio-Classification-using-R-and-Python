@@ -25,3 +25,5 @@ os._exit(00)
 
 **3)** Then, we have to Reconnect the session. Now, the new session will begin with R kernel.
 
+This post helped me in using R on Colab. [https://discourse.mc-stan.org/t/r-jupyter-notebook-rstan-on-google-colab/6101](https://discourse.mc-stan.org/t/r-jupyter-notebook-rstan-on-google-colab/6101)
+
